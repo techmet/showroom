@@ -1,0 +1,380 @@
+[
+    {
+        "model": "Punch",
+        "price": 5.49,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/39015/punch-exterior-right-front-three-quarter-2.jpeg?isig=0&q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/39015/punch-exterior-right-front-three-quarter-53.jpeg?isig=0&q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/39015/punch-exterior-right-side-view.jpeg?isig=0&q=85&wm=1"
+        ],
+        "engine": "1199 cc",
+        "mileage": "18.82 to 18.97 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Altroz",
+        "price": 5.89,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32597/tata-altroz-right-front-three-quarter20.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-78.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-70.jpeg?q=85&wm=1"
+        ],
+        "engine": "1199 to 1497 cc",
+        "mileage": "19.05 to 25.11 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Nexon",
+        "price": 7.30,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41645/nexon-exterior-right-front-three-quarter-57.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41645/nexon-exterior-left-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "1199 to 1497 cc",
+        "mileage": "16 to 22.4 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & Diesel",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Tiago",
+        "price": 5.00,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-6.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-5.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/39345/tiago-exterior-right-side-view-2.jpeg?q=85&wm=1"
+        ],
+        "engine": "1199 cc",
+        "mileage": "19.8 to 23.84 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Harrier",
+        "price": 14.39,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32958/tata-harrier-right-front-three-quarter58.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32958/harrier-exterior-right-front-three-quarter-53.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32958/harrier-exterior-right-front-three-quarter-54.jpeg?q=85&wm=1"
+        ],
+        "engine": "1956 cc",
+        "mileage": "14.63 to 16.35 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Diesel",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Safari",
+        "price": 14.99,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40027/safari-exterior-right-front-three-quarter-2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40027/safari-exterior-right-front-three-quarter-74.jpeg?isig=0&q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40027/safari-exterior-right-side-view-2.jpeg?q=85&wm=1"
+        ],
+        "engine": "1956 cc",
+        "mileage": "14.08 to 16.14 kmpl",
+        "seatingCapacity": 6,
+        "fuelType": "Diesel",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Tigor",
+        "price": 5.68,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41160/tata-tigor-right-front-three-quarter3.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41160/tata-tigor-facelift-right-front-three-quarter2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41160/tigor-exterior-right-rear-three-quarter.jpeg?q=85&wm=1"
+        ],
+        "engine": "1199 cc",
+        "mileage": "20.3 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Tiago NRG",
+        "price": 6.57,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/99113/tiago-nrg-bs6-exterior-right-front-three-quarter.jpeg?isig=0&q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/99113/tiago-nrg-exterior-rear-view-2.jpeg?isig=0&q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/99113/tiago-nrg-exterior-left-side-view.jpeg?isig=0&q=85&wm=1"
+        ],
+        "engine": "1199 cc",
+        "mileage": "20.9 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Baleno",
+        "price": 5.97,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=1&q=85",
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/37710/Maruti-Suzuki-Baleno-Front-view-154112.jpg?wm=1&q=85",
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/37710/Maruti-Suzuki-Baleno-Left-Side-View-147411.jpg?wm=1&q=85"
+        ],
+        "engine": "1197 cc",
+        "mileage": "19.56 to 21.96 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & Automatic (CVT)"
+    },
+    {
+        "model": "Swift",
+        "price": 5.85,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/54399/exterior-right-front-three-quarter-10.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/54399/swift-exterior-right-side-view.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/54399/swift-exterior-right-rear-three-quarter.jpeg?q=85&wm=1"
+        ],
+        "engine": "1197 cc",
+        "mileage": "23.2 to 23.76 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & Automatic (CVT)"
+    },
+    {
+        "model": "Ertiga",
+        "price": 7.96,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/54399/exterior-right-front-three-quarter-10.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/54399/swift-exterior-right-side-view.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/54399/swift-exterior-right-rear-three-quarter.jpeg?q=85&wm=1"
+        ],
+        "engine": "1462 cc",
+        "mileage": "17.99 to 26.2 km/kg",
+        "seatingCapacity": 7,
+        "fuelType": "Petrol & CNG",
+        "transmission": "Manual & Automatic (Torque Converter)"
+    },
+    {
+        "model": "Celerio",
+        "price": 4.99,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/53695/new-gen-celerio-exterior-right-front-three-quarter-2.jpeg?isig=0&q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/53695/new-gen-celerio-exterior-right-front-three-quarter-3.jpeg?isig=0&q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/53695/new-gen-celerio-exterior-right-side-view-2.jpeg?isig=0&q=85&wm=1"
+        ],
+        "engine": "998 cc",
+        "mileage": "25.17 to 26.23 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & CNG",
+        "transmission": "Manual & Amt"
+    },
+    {
+        "model": "Wagon R",
+        "price": 4.93,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/34467/wagonr-exterior-right-front-three-quarter-3.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/34467/wagonr-exterior-right-front-three-quarter-2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/34467/wagonr-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 to 1197 cc",
+        "mileage": "20.52 to 32.52 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & CNG",
+        "transmission": "Manual & Amt"
+    },
+    {
+        "model": "Alto",
+        "price": 3.15,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/39013/Maruti-Suzuki-Alto-Right-Front-Three-Quarter-154833.jpg?wm=1&q=85",
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/39013/Maruti-Suzuki-Alto-Exterior-154875.jpg?wm=1&q=85",
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/39013/Maruti-Suzuki-Alto-Exterior-154860.jpg?v=20192404091531&q=85&wm=1"
+        ],
+        "engine": "796 cc",
+        "mileage": "22.05 to 31.59 km/kg",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & CNG",
+        "transmission": "Manual"
+    },
+    {
+        "model": "Dzire",
+        "price": 5.98,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/45691/marutisuzuki-dzire-right-front-three-quarter8.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/45691/marutisuzuki-dzire-left-front-three-quarter2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/45691/marutisuzuki-dzire-fog-lamps6.jpeg?q=85&wm=1"
+        ],
+        "engine": "1197 cc",
+        "mileage": "23.26 to 24.12 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & CNG",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "S-Presso",
+        "price": 3.78,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40726/s-presso-exterior-right-front-three-quarter-171853.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40726/s-presso-exterior-right-front-three-quarter-171852.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40726/s-presso-exterior-right-side-view-2.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 cc",
+        "mileage": "21.53 to 31.19 km/kg",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & CNG",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "XL6",
+        "price": 9.94,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/41043/Maruti-Suzuki-XL6-Exterior-165499.jpg?wm=1&q=85",
+            "https://imgd.aeplcdn.com/1056x594/cw/ec/41043/Maruti-Suzuki-XL6-Right-Front-Three-Quarter-167562.jpg?wm=1&q=85",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41043/xl6-exterior-right-front-three-quarter-167563.jpeg?q=85&wm=1"
+        ],
+        "engine": "1462 cc",
+        "mileage": "17.99 to 19.01 kmpl",
+        "seatingCapacity": 6,
+        "fuelType": "Petrol",
+        "transmission": "Manual & Automatic (Torque Converter)"
+    },
+    {
+        "model": "S-Cross",
+        "price": 8.51,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/46482/s-cross-petrol-exterior-right-front-three-quarter.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/46482/s-cross-exterior-right-front-three-quarter-64.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/46482/s-cross-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "1462 cc",
+        "mileage": "18.43 to 18.55 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & Automatic (Torque Converter)"
+    },
+    {
+        "model": "Ignis",
+        "price": 5.02,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/44409/marutisuzuki-ignis-right-front-three-quarter3.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/44409/marutisuzuki-ignis-left-side-view15.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/272x153/n/cw/ec/44409/marutisuzuki-ignis-headlamps20.jpeg?q=85"
+        ],
+        "engine": "1197 cc",
+        "mileage": "20.89 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual & Amt"
+    },
+    {
+        "model": "Venue",
+        "price": 6.99,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/35455/venue-exterior-right-front-three-quarter-2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/35455/venue-exterior-right-front-three-quarter.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/35455/venue-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 to 1493 cc",
+        "mileage": "17.52 to 23.4 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & Diesel",
+        "transmission": "Manual, Clutchless Manual & Automatic (Dual Clutch)"
+    },
+    {
+        "model": "Creta",
+        "price": 10.16,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41564/hyundai-creta-right-front-three-quarter9.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41564/creta-exterior-right-front-three-quarter-2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41564/creta-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "1353 to 1497 cc",
+        "mileage": "17 to 21 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & Diesel",
+        "transmission": "Manual, Automatic (CVT), Automatic (Torque Converter) & Automatic (Dual Clutch)"
+    },
+    {
+        "model": "i20",
+        "price": 6.91,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40530/i20-exterior-right-front-three-quarter-5.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40530/i20-exterior-right-front-three-quarter-7.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40530/i20-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 to 1493 cc",
+        "mileage": "19.65 to 25.2 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & Diesel",
+        "transmission": "Manual, Automatic (CVT), Automatic (Torque Converter) & Automatic (Dual Clutch)"
+    },
+    {
+        "model": "Grand i10 Nios",
+        "price": 5.28,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/35465/grand-i10-nios-exterior-right-front-three-quarter-2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/35465/grand-i10-nios-exterior-right-front-three-quarter.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/35465/grand-i10-nios-exterior-right-side-view-2.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 to 1197 cc",
+        "mileage": "18.9 to 25 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol, CNG & Diesel",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Verna",
+        "price": 9.28,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41197/hyundai-verna-right-front-three-quarter7.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41197/verna-exterior-right-front-three-quarter-2.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41197/verna-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 to 1497 cc",
+        "mileage": "17.7 to 25 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol & Diesel",
+        "transmission": "Manual, Automatic (CVT), Automatic (Torque Converter) & Automatic (Dual Clutch)"
+    },
+    {
+        "model": "Aura",
+        "price": 6.00,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41652/aura-exterior-right-front-three-quarter-54.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41652/aura-exterior-right-front-three-quarter-53.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/41652/aura-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 to 1197 cc",
+        "mileage": "20 to 28 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol, CNG & Diesel",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Santro",
+        "price": 4.77,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32940/santro-exterior-right-front-three-quarter-138782.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32940/santro-exterior-right-front-three-quarter-138781.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/32940/santro-exterior-right-side-view.jpeg?q=85&wm=1"
+        ],
+        "engine": "998 to 1197 cc",
+        "mileage": "20 to 28 kmpl",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol, CNG & Diesel",
+        "transmission": "Manual & AMT"
+    },
+    {
+        "model": "Alcazar",
+        "price": 16.30,
+        "images": [
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/46812/alcazar-exterior-right-front-three-quarter.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/46812/alcazar-exterior-right-front-three-quarter-7.jpeg?q=85&wm=1",
+            "https://imgd.aeplcdn.com/1056x594/n/cw/ec/46812/alcazar-exterior-right-side-view-2.jpeg?q=85&wm=1"
+        ],
+        "engine": "1493 to 1999 cc",
+        "mileage": "14.2 to 20.4 kmpl",
+        "seatingCapacity": 7,
+        "fuelType": "Petrol & Diesel",
+        "transmission": "Manual & Automatic (Torque Converter)"
+    }
+]
