@@ -1,4 +1,4 @@
-This is simple Car showroom App, built using React, Node(Graphql-API)
+This is simple Car showroom App, built using React, Node(Graphql)
 
 Steps to run:
 1. Run `npm run install` in the root to install dependencies.
