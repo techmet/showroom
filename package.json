@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "(cd ./client && npm install) && (cd ./graphql-api && npm install)",
+    "start-client": "cd ./client && npm start",
+    "start-graphql": "cd ./graphql-api && npm start"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/techmet/showroom/issues"
   },
-  "homepage": "https://github.com/techmet/showroom#readme"
+  "homepage": "https://github.com/techmet/showroom#readme",
+  "devDependencies": {
+  }
 }
